@@ -1,6 +1,6 @@
 # 📄 Integration: Extract Images & Data from Google Drive PDFs to Google Sheets
 
-
+![Profile Picture](makescenario.png)
 
 ## 📌 Summary
 This Make scenario automates the extraction of property data and images from real estate PDF brochures stored in Google Drive. It converts the PDFs to Google Docs, extracts images, uses OpenAI GPT to parse text into structured JSON, and then logs the data into a Google Sheet. Processed files are organized into dedicated folders, making it ideal for streamlining real estate brochure analysis and reporting.
